@@ -91,8 +91,9 @@ hadoop fs –put ratings.dat data
 
 ## Author
 
-**Ismail MOUSSAOUI** 
-**Youssef ZMAROU**
+* **Ismail MOUSSAOUI** 
+
+* **Youssef ZMAROU**
 
 
 
