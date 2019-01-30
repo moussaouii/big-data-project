@@ -4,8 +4,8 @@
 These containers were originally from [here](https://github.com/kiwenlau/hadoop-cluster-docker)
 
 This project is a  cluster of  containers  with as platforms installed
-Apache Hadoop Version: 2.7.2
-Apache Spark Version: 2.2.1
+* Apache Hadoop Version: 2.7.2
+* Apache Spark Version: 2.2.1
 
 This cluster has a master and several slaves
 
